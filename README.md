@@ -1,0 +1,1 @@
+An AI image generator based on Node.js and OpenAI.
